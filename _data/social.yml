@@ -5,10 +5,10 @@ facebook: ibrother.me
 gplus:
 dribble:
 pinterest:
-disqus_shortname: staticblogteam
-duoshuo_shortname: i2brother
+disqus_shortname: #staticblogteam
+duoshuo_shortname: #i2brother
 valine_comment: 
   enable: true
-  leancloud_appid: oip6cvm7CO6OeBtyghYeBJJe-gzGzoHsz
-  leancloud_appkey: iLS9tFGX3LvOp2HMCH2C49Ch
+  leancloud_appid: AnlQLDmNdVeGBc104glGHnty-gzGzoHsz
+  leancloud_appkey: 0xWfmArRQhGCa6CpoTp6aMU3
   placeholder: Just go go

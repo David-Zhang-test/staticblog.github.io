@@ -1,5 +1,5 @@
 # Site settings
-title: static blog
+title: Mr.Zhang
 subtitle: build every theme with love.
 email: i@ibrother.me
 lang: zh-CN # for html lang
@@ -52,8 +52,8 @@ incremental: false
 detach:  false
 port:    4000
 host:    127.0.0.1
-baseurl: "" # does not include hostname
-url: "https://staticblog.github.io" # the base hostname & protocol for your site
+baseurl: "/staticblog.github.io" # does not include hostname
+url: "https://david-zhang-test.github.io" # the base hostname & protocol for your site
 
 # Outputting
 permalink:     /:categories/:title
